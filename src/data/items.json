@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 110,
+        "imgUrl": "/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gamepad",
+        "price": 910,
+        "imgUrl": "/gamepad.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Brown Shoes",
+        "price": 335,
+        "imgUrl": "/brown_shoes.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bagpack",
+        "price": 140,
+        "imgUrl": "/bagpack.jpg"
+    }
+]
